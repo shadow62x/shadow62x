@@ -8,7 +8,7 @@ Developer | LuaU
 
 ### 😺 CatBypasser
 
-<img align="right" width="100" height="100" src="https://catbypasser.lol/xxxx.png" alt="CatBypasser Logo">
+<img align="top" width="1000" height="400" src="https://catbypasser.lol/xxxx.png" alt="CatBypasser Logo">
 
 An OP Roblox Chat-bypasser which is the most known bypasser to ever exist.
 
